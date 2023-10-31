@@ -4,17 +4,17 @@ This is the companion repo for my blog [How to Authenticate with SAML in ASP.NET
 
 Okta Configurations:
 ```	
-	Single sign-on URL - http://localhost:56438/Auth/AssertionConsumerService
+	**Single sign-on URL** - http://localhost:56438/Auth/AssertionConsumerService
 ```
 
 ```	
-	Audience URI (SP Entity ID) - http://localhost:56438/Auth/AssertionConsumerService
+	**Audience URI (SP Entity ID)** - http://localhost:56438/Auth/AssertionConsumerService
 ```
 
 ```	
-	Single Logout URL - http://localhost:56438/Auth/SingleLogout
+	**Single Logout URL **- http://localhost:56438/Auth/SingleLogout
 ```
 
 ```	
-	SP Issuer - http://localhost:56438/Auth/AssertionConsumerService
+	**SP Issuer** - http://localhost:56438/Auth/AssertionConsumerService
 ```
